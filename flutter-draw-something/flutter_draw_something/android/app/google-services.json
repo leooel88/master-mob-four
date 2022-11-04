@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016650343018",
+    "project_id": "pictionis-d7fe4",
+    "storage_bucket": "pictionis-d7fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016650343018:android:49f118693288ff25692013",
+        "android_client_info": {
+          "package_name": "com.example.flutter_draw_something"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016650343018-c38nog2g5sf629qnpmosh8kog66fi94h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_49oee5M-EmOiGi5Eojn1cX6OMfsCHrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016650343018-c38nog2g5sf629qnpmosh8kog66fi94h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
